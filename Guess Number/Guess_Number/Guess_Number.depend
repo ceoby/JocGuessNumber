@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648128377 source:c:\users\adria\desktop\guess number\guess_number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
